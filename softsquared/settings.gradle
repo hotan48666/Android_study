@@ -1,0 +1,2 @@
+rootProject.name='softsquared'
+include ':app'
