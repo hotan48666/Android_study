@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/orders"
+        android:icon="@drawable/ic_dialer_sip_black_24dp"
+        android:title="주문"
+        />
+
+    <item
+        android:id="@+id/goout"
+        android:icon="@drawable/ic_lock_black_24dp"
+        android:title="나가기"
+        />
+
+    <item
+        android:id="@+id/gold"
+        android:icon="@drawable/ic_chevron_right_black_24dp"
+        android:title="오"
+        />
+
+    <item
+        android:id="@+id/videos"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="비디"
+        />
+</menu>
